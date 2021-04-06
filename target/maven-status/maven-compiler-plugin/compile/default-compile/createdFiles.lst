@@ -1,2 +1,5 @@
-by\academy\Student.class
+by\academy\factory\StudentFactory.class
+by\academy\factory\StudentFactory$1.class
+by\academy\factory\TypeStudent.class
+by\academy\StudentTypeThree.class
 by\academy\App.class
